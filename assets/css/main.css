@@ -15,6 +15,20 @@ body{
     background-image: url(/assets/img/bg.png);
 }
 
+.btn-profile{
+    display: flex;
+    justify-content: right;
+    padding-top: 50px;
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 18px;
+    transition: .3s;
+}
+
+.btn-profile:hover{
+    color: #a0a0a0;
+}
+
 .header-content{
     padding-top: 205px;
 }
