@@ -93,14 +93,15 @@ body{
     padding-bottom: 16px;
  }
 
- .guests button{
+ .guests a{
     background-color: #ECECEC;
     padding: 15px 100px 15px 15px;
     border-radius: 10px;
     transition: .3s;
+    color: black;
  }
 
- .guests button:hover{
+ .guests a:hover{
     background-color: #383838;
     color: white;
  }
@@ -116,14 +117,15 @@ body{
     padding-bottom: 16px;
  }
 
- .settings button{
+ .settings a{
     background-color: #ECECEC;
     padding: 15px 160px 15px 15px;
     border-radius: 10px;
     transition: .3s;
+    color: black;
  }
 
- .settings button:hover{
+ .settings a:hover{
     background-color: #383838;
     color: white;
  }
@@ -139,14 +141,15 @@ body{
     padding-bottom: 16px;
  }
 
- .support button{
+ .support a{
     background-color: #ECECEC;
     padding: 15px 70px 15px 15px;
     border-radius: 10px;
     transition: .3s;
+    color: black;
  }
 
- .support button:hover{
+ .support a:hover{
     background-color: #383838;
     color: white;
  }
@@ -162,14 +165,15 @@ body{
     padding-bottom: 16px;
  }
 
- .tarifs button{
+ .tarifs a{
     background-color: #ECECEC;
     padding: 15px 70px 15px 15px;
     border-radius: 10px;
     transition: .3s;
+    color: black;
  }
 
- .tarifs button:hover{
+ .tarifs a:hover{
     background-color: #383838;
     color: white;
  }
